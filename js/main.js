@@ -13,8 +13,6 @@ document.addEventListener("DOMContentLoaded", function() {
           elements[a].style.background =
             "url('/images/icon-error.svg') no-repeat right";
           field[a].style.border = "1.5px solid var(--red)";
-          elements[a].style.border =
-            "none";
         }
         email.placeholder = "email@example.com";
       }
