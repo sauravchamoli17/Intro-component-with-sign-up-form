@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-[ Check Out The Solution](https://www.frontendmentor.io)
+[ Check Out The Solution Here](https://sauravchamoli17.github.io/Intro-component-with-sign-up-form/. )
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
