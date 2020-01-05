@@ -19,12 +19,6 @@ document.addEventListener("DOMContentLoaded", function() {
     };
     elements[i].oninput = function(e) {
       e.target.setCustomValidity("");
-      for (let a = 0; a < errormsg.length; a++) {
-      errormsg[a].style.display = "none";
-      elements[a].style.background =
-       "none";
-       field[a].style.border = "1px solid hsl(246, 25%, 77%);";
-        }
     };
   }
 });
