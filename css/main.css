@@ -52,6 +52,7 @@ button {
   color: #ffffff;
   font-family: "PoppinsSemibold";
   outline: none;
+  text-transform:none;
 }
 .trytext {
   align-self: center;
