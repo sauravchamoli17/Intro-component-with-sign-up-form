@@ -52,7 +52,6 @@ button {
   color: #ffffff;
   font-family: "PoppinsSemibold";
   outline: none;
-  text-transform:uppercase;
 }
 .trytext {
   align-self: center;
@@ -116,6 +115,7 @@ input {
   margin: 0 auto;
   width: 100%;
   margin-top: 25px;
+  text-transform:uppercase;
 }
 .claimbutton:hover {
   cursor: pointer;
